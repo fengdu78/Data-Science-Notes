@@ -1,0 +1,6 @@
+name: pyparis_sklearn
+dependencies:
+  - scikit-learn >= 0.20
+  - pandas
+  - matplotlib
+  - jupyter
