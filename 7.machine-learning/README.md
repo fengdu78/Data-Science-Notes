@@ -58,7 +58,58 @@
 
 第12章 监督学习方法总结
 
-## 三、台大林轩田《机器学习基石》系列课程教材的习题解答
+
+
+## 三、周志华老师的《机器学习》的解答--南瓜书PumpkinBook
+
+作者：Datawhale
+
+**github地址**：
+
+https://github.com/datawhalechina/pumpkin-book
+
+**在线阅读地址**：
+
+https://datawhalechina.github.io/pumpkin-book/
+
+周志华老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，周老师为了使尽可能多的读者通过西瓜书对机器学习有所了解, 所以在书中对部分公式的推导细节没有详述，但是这对那些想深究公式推导细节的读者来说可能“不太友好”。
+
+近日有个github仓库“南瓜书(PumpkinBook)”对西瓜书里比较难理解的公式加以解析，以及对部分公式补充具体的推导细节。
+
+该仓库拥有者**Datawhale**是一个非盈利的开源学习组织，致力于构建一个纯粹的学习圈子，帮助学习者更好地成长。目前已经更新完前7章，并诚挚欢迎每一位西瓜书读者前来参与完善本书：**一个人可以走的很快，但是一群人却可以走的更远。**
+
+
+
+### 使用说明
+
+南瓜书仅仅是西瓜书的一些细微补充而已，里面的内容都是以西瓜书的内容为前置知识进行表述的，所以南瓜书的最佳使用方法是以西瓜书为主线，遇到自己推导不出来或者看不懂的公式时再来查阅南瓜书。若南瓜书里没有你想要查阅的公式，可以[点击这里](https://github.com/datawhalechina/pumpkin-book/issues)提交你希望补充推导或者解析的公式编号，我们看到后会尽快进行补充。
+
+### 在线阅读地址
+
+在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+### 目录
+
+- 第1章 [绪论](https://datawhalechina.github.io/pumpkin-book/#/chapter1/chapter1)
+- 第2章 [模型评估与选择](https://datawhalechina.github.io/pumpkin-book/#/chapter2/chapter2)
+- 第3章 [线性模型](https://datawhalechina.github.io/pumpkin-book/#/chapter3/chapter3)
+- 第4章 [决策树](https://datawhalechina.github.io/pumpkin-book/#/chapter4/chapter4)
+- 第5章 [神经网络](https://datawhalechina.github.io/pumpkin-book/#/chapter5/chapter5)
+- 第6章 [支持向量机](https://datawhalechina.github.io/pumpkin-book/#/chapter6/chapter6)
+- 第7章 [贝叶斯分类器](https://datawhalechina.github.io/pumpkin-book/#/chapter7/chapter7)
+- 第8章 [集成学习](https://datawhalechina.github.io/pumpkin-book/#/chapter8/chapter8)
+- 第9章 [聚类](https://datawhalechina.github.io/pumpkin-book/#/chapter9/chapter9)
+- 第10章 [降维与度量学习](https://datawhalechina.github.io/pumpkin-book/#/chapter10/chapter10)
+- 第11章 [特征选择与稀疏学习](https://datawhalechina.github.io/pumpkin-book/#/chapter11/chapter11)
+- 第12章 [计算学习理论](https://datawhalechina.github.io/pumpkin-book/#/chapter12/chapter12)
+- 第13章 [半监督学习](https://datawhalechina.github.io/pumpkin-book/#/chapter13/chapter13)
+- 第14章 [概率图模型](https://datawhalechina.github.io/pumpkin-book/#/chapter14/chapter14)
+- 第15章 规则学习（正在完成中）
+- 第16章 [强化学习](https://datawhalechina.github.io/pumpkin-book/#/chapter16/chapter16)
+
+## 
+
+## 四、台大林轩田《机器学习基石》系列课程教材的习题解答
 
 **github地址**：https://github.com/Doraemonzzz/Learning-from-data
 
