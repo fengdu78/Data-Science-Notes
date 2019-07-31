@@ -19,3 +19,31 @@
 
 
 
+## 参考
+
+- 《统计学习方法》李航
+
+- https://github.com/donnemartin/data-science-ipython-notebooks
+
+- https://github.com/datawhalechina/pumpkin-book
+
+- https://github.com/Doraemonzzz/Learning-from-data
+
+- https://github.com/wzyonggege/statistical-learning-method
+
+- https://github.com/WenDesi/lihang_book_algorithm
+
+- https://www.coursera.org/course/ml 
+
+- https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 
+
+- 《python科学计算》
+
+
+## 关于作者
+
+微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
+知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
+
+[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
+
