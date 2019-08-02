@@ -17,26 +17,21 @@
 
 [8.deep-learning](8.deep-learning)（深度学习基础）
 
+[9.feature-engineering](9.feature-engineering)（深度学习基础）
+
 
 
 ## 参考
 
 - 《统计学习方法》李航
-
 - https://github.com/donnemartin/data-science-ipython-notebooks
-
+- https://github.com/apachecn/feature-engineering-for-ml-zh
 - https://github.com/datawhalechina/pumpkin-book
-
 - https://github.com/Doraemonzzz/Learning-from-data
-
 - https://github.com/wzyonggege/statistical-learning-method
-
 - https://github.com/WenDesi/lihang_book_algorithm
-
 - https://www.coursera.org/course/ml 
-
 - https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 
-
 - 《python科学计算》
 
 
