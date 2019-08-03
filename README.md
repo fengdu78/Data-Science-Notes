@@ -17,7 +17,7 @@
 
 [8.deep-learning](8.deep-learning)（深度学习基础）
 
-[9.feature-engineering](9.feature-engineering)（深度学习基础）
+[9.feature-engineering](9.feature-engineering)（特征工程基础）
 
 
 
