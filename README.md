@@ -1,6 +1,8 @@
 # Data-Science-Notes
 数据科学的笔记以及资料搜集，目前尚在更新，部分内容来源于github搜集。
 
+[0.math](0.math) （数学基础）
+
 [1.python-basic](1.python-basic) （python基础）
 
 [2.numpy](2.numpy)（numpy基础）
@@ -41,4 +43,8 @@
 知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
 
 [我的知乎](https://www.zhihu.com/people/fengdu78/activities)
+
+如果需要引用这个Repo:
+
+格式： `fengdu78, Data-Science-Notes, (2019), GitHub repository, https://github.com/fengdu78/Data-Science-Notes`
 

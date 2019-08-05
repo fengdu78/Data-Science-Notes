@@ -36,3 +36,9 @@
 **翻译**：[apachecn](https://github.com/apachecn)，[翻译版本地址](https://github.com/apachecn/feature-engineering-for-ml-zh)
 
 **代码修改和整理**：[黄海广](https://github.com/fengdu78)，原文修改成jupyter notebook格式，并增加和修改了部分代码，测试全部通过，所有数据集已经放在[百度云](data/README.md)下载。
+
+
+
+如果需要引用这个Repo:
+
+格式： `fengdu78, Data-Science-Notes, (2019), GitHub repository, https://github.com/fengdu78/Data-Science-Notes`
