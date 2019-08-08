@@ -17,6 +17,10 @@
 
 文件介绍：
 
-[1.CS229线性代数（更新中）](1.CS229-LinearAlgebra.pdf)
+[1.CS229线性代数（翻译完毕）](1.CS229-LinearAlgebra.pdf)
 
 github内容是方便用户学习研究使用，请勿用于商业目的。
+
+如果需要引用这个Repo:
+
+格式： `fengdu78, Data-Science-Notes, (2019), GitHub repository, https://github.com/fengdu78/Data-Science-Notes`
