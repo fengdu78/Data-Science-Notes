@@ -321,7 +321,7 @@ python 2.7或者3.5以上，pytorch 0.4
 
 
 
-**github地址：**<https://github.com/fengdu78/machine_learning_beginner/tree/master/PyTorch_beginner>
+**github地址：**https://github.com/fengdu78/Data-Science-Notes/tree/master/8.deep-learning/PyTorch_beginner
 
 #### 本教程的目标：
 
