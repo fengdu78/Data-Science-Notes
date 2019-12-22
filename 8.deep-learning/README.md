@@ -366,3 +366,23 @@ github地址：https://github.com/fengdu78/PaddlePaddle-Tutorial   （更新中�
 
 ### 6.图解word2vec(翻译)
 **github地址：**https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec
+
+### 7.深度学习阅读路线图
+
+本文是深度学习论文的阅读路线图！
+
+该路线图是根据以下四个准则构建的：
+
+- 从轮廓到细节
+- 从旧到最新
+- 从通用到特定领域
+- 专注于最新技术
+
+您会发现许多非常新的论文，但确实值得阅读。
+
+此外，作者将继续在此路线图中添加论文。
+
+github地址：
+
+https://github.com/fengdu78/Data-Science-Notes/tree/master/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap
+
