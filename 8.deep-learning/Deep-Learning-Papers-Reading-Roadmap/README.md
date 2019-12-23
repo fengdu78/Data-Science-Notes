@@ -33,7 +33,7 @@
 
 提取码：fnks
 
-我将本文放在我的数据科学的github中：
+我将本文的所有论文放在我的数据科学的github中：
 
  https://github.com/fengdu78/Data-Science-Notes/tree/master/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap 
 
@@ -49,7 +49,7 @@
 
 ![img](pdf.png)
 
-##   
+[toc]
 
 ## 论文目录
 
@@ -367,3 +367,6 @@ Some milestone papers are listed in RNN / Seq-to-Seq topic.
 
 百度云地址发布：
 
+链接：https://pan.baidu.com/s/17Xcg6-mzRjlNKEIj2lSPiw
+
+提取码：fnks
