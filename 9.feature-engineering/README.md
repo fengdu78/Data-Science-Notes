@@ -37,7 +37,17 @@
 
 **代码修改和整理**：[黄海广](https://github.com/fengdu78)，原文修改成jupyter notebook格式，并增加和修改了部分代码，测试全部通过，所有数据集已经放在[百度云](data/README.md)下载。
 
+## 二、特征工程的神器-基于Python的特征自动化选择代码
 
+[FeatureSelectorUsage](FeatureSelectorUsage/)
+
+该选择器基于python编写，有五种方法来标识要删除的特征：
+
+- 缺失值
+- 唯一值
+- 共线特征
+- 零重要性特征
+- 低重要性特征
 
 如果需要引用这个Repo:
 
