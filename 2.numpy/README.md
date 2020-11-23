@@ -140,3 +140,36 @@ NumPy（Numeric Python）提供了许多高级的数值编程工具，如：矩�
 有答案代码和注释的文件
 
 你可以在**100_Numpy_exercises_no_solution.ipynb** 里输入代码，看看运行结果是否和**100_Numpy_exercises.ipynb** 里面的内容一致。
+
+## 四、Numpy练习题
+
+整理了一个Numpy的练习题，总结了Numpy的常用操作，可以测试下自己对Numpy的掌握程度，有答案哦。
+
+### 试题目录
+
+  * Array creation routines（数组创建）
+  * Array manipulation routines（数组操作）
+  * String operations（字符串操作）
+  * Numpy-specific help functions（Numpy特定帮助函数）
+  * Input and output（输入和输出）
+  * Linear algebra（线性代数）
+  * Discrete Fourier Transform（离散傅里叶变换）
+  * Logic functions（逻辑函数）
+  * Mathematical functions（数学函数）
+  * Random sampling (numpy.random)（随机抽样）
+  * Set routines（集合操作）
+  * Sorting, searching, and counting（排序、搜索和计数）
+  * Statistics（统计）
+
+### 试题内容
+
+试题分为13个练习，每个练习分为两个ipynb文件，文件名带`_Solutions` 的是带答案的文件，建议初学者先练习下不带答案的文件,做不出来再看看答案。
+
+**本练习代码可以在github下载：**
+
+[numpy_exercises](numpy_exercises)
+
+### 作者及来源
+
+- 作者： Kyubyong
+- 来源：https://github.com/Kyubyong/numpy_exercises 
