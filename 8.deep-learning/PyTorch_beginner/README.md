@@ -4,17 +4,19 @@
 
 **作者**：Soumith Chintala
 
-原文翻译自：<https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>
 
-中文翻译、注释制作：黄海广
+原文翻译自：[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+翻译：[林不清](https://www.zhihu.com/people/lu-guo-92-42-88)
+
+整理：机器学习初学者公众号 ![gongzhong](images/gongzhong.jpg)
 
 github：<https://github.com/fengdu78>
 
 代码全部测试通过。
 
-配置环境：PyTorch 1.0，Python 3.6
+配置环境：PyTorch 1.5+，Python 3.7+
 
-主机：显卡：一块1080ti；内存：32g（注：绝大部分代码不需要GPU）![公众号](images/gongzhong.jpg)
 
 
 
@@ -32,9 +34,10 @@ github：<https://github.com/fengdu78>
 
 
 
-* 1.[Pytorch是什么？](60分钟入门PyTorch-1.PyTorch是什么？.ipynb)
-* 2.[AUTOGRAD](60分钟入门PyTorch-2.AUTOGRAD.ipynb)
-* 3.[神经网络](60分钟入门PyTorch-3.神经网络.ipynb)
-* 4.[训练一个分类器](60分钟入门PyTorch-4.训练一个分类器.ipynb)
-* 5.[数据并行](60分钟入门PyTorch-5.数据并行.ipynb)
+* 1.[Tensors](1.Tensors.ipynb)
+* 2.[AUTOGRAD](2.Autograd自动求导.ipynb)
+* 3.[神经网络](3.神经网络.ipynb)
+* 4.[训练一个分类器](4.训练一个分类器.ipynb)
+
+  
 
