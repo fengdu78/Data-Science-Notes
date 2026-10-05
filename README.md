@@ -40,11 +40,11 @@
 ## 关于作者
 
 微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
+
 
 [我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
-机器学习qq群：704220115（我们有11个群，加过一个就不需要加了）
+机器学习qq群：772479961（我们有14个群，加过一个就不需要加了）
 
 **注意：github下载太慢的话，关注我的公众号：“机器学习初学者”，回复“学习路线”即可下载本仓库的镜像文件，整个仓库压缩成一个iso。**
 
